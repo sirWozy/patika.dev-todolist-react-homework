@@ -12,4 +12,5 @@
 - Filtreleme yapıldıktan sonra herhangi bir todo'nun durumu değiştirilirse filtreleme devre dışı kalarak tüm todo'lar gösteriliyor. Durum değişsede filtrelemenin sabit olması sağlanacak.
 - Herhangi bir todo'nun üstüne tıklandığında değiştirilebilir olması sağlanacak.
 
+[Live](https://patika-dev-todolist-react-homework.vercel.app/)
 
